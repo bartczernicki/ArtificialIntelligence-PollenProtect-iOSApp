@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pollenProtect", "pollenProtect\pollenProtect.csproj", "{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Release|iPhone.ActiveCfg = Release|iPhone
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Release|iPhone.Build.0 = Release|iPhone
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{05C3313F-2D5D-4B4F-A96F-95DC6FCCB032}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
